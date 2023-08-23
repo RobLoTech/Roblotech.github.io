@@ -1,9 +1,15 @@
 site_name: RobloTech
 theme:
   name: material
+  icon:
+    logo: fontawesome/brands/r-project
+  font:
+    text: Roboto
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -17,14 +23,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
-      accent: purple
+      primary: indigo
+      accent: red
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: lime
+      primary: indigo
+      accent: red
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -48,7 +54,7 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
