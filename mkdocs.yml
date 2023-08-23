@@ -7,9 +7,9 @@ theme:
     text: Roboto
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    - navigation.tabs.sticky
     - navigation.path
+    - navigation.indexes
     - toc.integrate
     - navigation.top
     - search.suggest
