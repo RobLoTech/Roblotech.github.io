@@ -3,14 +3,11 @@
 - Fairly new concept being applied by companies like Cisco, SentinelOne, and SOCRadar.
 - Imnproves the effectiveness of Cyber Threat Intelligence (CTI), threat hunding, and IR
 
-Check out these resources for a general overview of its meaning, and how reputable companies are implementing it:
-- [Cisco Security](https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/)
-- [SentinelOne](https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/)
-- [SOCRadar](https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/)
+Check out these resources for a general overview of its meaning, and how reputable companies are implementing it; [Cisco Security](https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/), [SentinelOne](https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/),  [SOCRadar](https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/)
 
+**Table of Contents**
 
 - [Piramid of Pain](#piramid-of-pain)
-  - [Table of Contents](#table-of-contents)
   - [Hash Values](#hash-values)
   - [Importance of IP Addresses and Their Role in the Pyramid of Pain](#importance-of-ip-addresses-and-their-role-in-the-pyramid-of-pain)
     - [Defense Perspective](#defense-perspective)
@@ -23,16 +20,21 @@ Check out these resources for a general overview of its meaning, and how reputab
 
 **Hash Value** - this is a fixed length numeric value that identifies a piece of data. This is possible through hashing algorigthms. 
 
-- **MD5 (Message Digest, RFC 1321)**
+**MD5 (Message Digest, RFC 1321)**
+
   - Designed by Ron Rivest, 1992
   - **128-bit** hash value
   - **Are NOT considered SECURE**
   - RFC 6151 - published attacks agains MD5 hashes (i.e. hash collision)
-- **SHA-1 (Secure Hash Algorithm 1, RFC 3174)**
+
+**SHA-1 (Secure Hash Algorithm 1, RFC 3174)**
+
   - Invented by National Security Agency (NSA) in 1995
   - **160-bit** hash value as a 40 digit hex number
   - Was deprecated by NIST in 2011 - susceptible by brute force attacks
-- **SHA-2 (Secure Hash Algorithm 2)**
+
+**SHA-2 (Secure Hash Algorithm 2)**
+
   - Designed by NIST and NSA in 2001
   - Most common variants is **SHA-256** - returns a **256-bit** hash value as 64 digit hex number. 
 
@@ -75,17 +77,26 @@ Although it can be harder for attackers to deal with Domain Names seeing that th
 
 ### Punycode Attacks
 
-- **Punycode** 
+**Punycode**
+
   - A method to encode non-ASCII characters into ASCII-compatible format.  
   - Its main purpose is to try and deceipt the human eye (obfuscation)
   - i.e. `adıdas.de` has a Punycode of `http://xn--addas-o4a.de/`
-- **Punycode Attacks**
+
+**Punycode Attacks**
+
   - Attackers use Punycode to create URLs that look legitimate but redirect users to malicious domains.
-- **Detection**
+
+**Detection**
+
   - Modern browsers can translate obfuscated characters into Punycode, helping users identify such attacks.
-- **Malicious URL Shorteners**
+
+**Malicious URL Shorteners**
+
   - Attackers hide malicious domains behind URL shortening services like bit.ly, goo.gl, etc.
-- **Detecting Malicious URLs**
+
+**Detecting Malicious URLs**
+
   - Proxy logs or web server logs can help identify connections to malicious domains.
   - Examples of **URL Shortening services**:
     - bit.ly
@@ -99,10 +110,25 @@ Although it can be harder for attackers to deal with Domain Names seeing that th
 
 ### Analyzing Connections in Any.run
 
-- **Any.run Sandbox:** Analyzing samples by executing them in a controlled environment.
-- **Monitoring Connections:** Any.run provides insight into HTTP requests, DNS requests, and communication processes.
-- **HTTP Requests:** Shows resources retrieved from a webserver, like droppers or callbacks.
-- **Connections:** Reveals communications between processes, such as C2 (Command and Control) traffic or file transfers.
-- **DNS Requests:** Displays DNS requests made by malware to check internet connectivity.
+**Any.run Sandbox:** 
+
+- Analyzing samples by executing them in a controlled environment.
+  
+**Monitoring Connections:**
+
+- Any.run provides insight into HTTP requests, DNS requests, and communication processes.
+
+**HTTP Requests:** 
+
+- Shows resources retrieved from a webserver, like droppers or callbacks.
+
+**Connections:** 
+
+- Reveals communications between processes, such as C2 (Command and Control) traffic or file transfers.
+
+
+**DNS Requests:** 
+
+- Displays DNS requests made by malware to check internet connectivity.
 
 Remember, these insights help defenders better understand the tactics attackers use, empowering us to stay vigilant and proactive in the ever-evolving landscape of cybersecurity.
