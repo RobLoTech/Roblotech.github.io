@@ -1,4 +1,4 @@
-# Role: Security Operations Analyst
+# Junior Security Operations Analyst
 
 This role involves overseeing and managing event logs and alerts to ensure the security of an organization's digital environment.
 

@@ -86,7 +86,7 @@ Although it can be harder for attackers to deal with Domain Names seeing that th
 - **Any.run Sandbox:** Analyzing samples by executing them in a controlled environment.
 - **Monitoring Connections:** Any.run provides insight into HTTP requests, DNS requests, and communication processes.
 - **HTTP Requests:** Shows resources retrieved from a webserver, like droppers or callbacks.
-- **Connections:** Reveals communications between processes, such as C2 traffic or file transfers.
+- **Connections:** Reveals communications between processes, such as C2 (Command and Control) traffic or file transfers.
 - **DNS Requests:** Displays DNS requests made by malware to check internet connectivity.
 
 Remember, these insights help defenders better understand the tactics attackers use, empowering us to stay vigilant and proactive in the ever-evolving landscape of cybersecurity.
