@@ -1,9 +1,25 @@
-# Intro
+# Piramid of Pain
 
 - Fairly new concept being applied by companies like Cisco, SentinelOne, and SOCRadar.
 - Imnproves the effectiveness of Cyber Threat Intelligence (CTI), threat hunding, and IR
 
-# Hash Values
+Check out these resources for a general overview of its meaning, and how reputable companies are implementing it:
+- [Cisco Security](https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/)
+- [SentinelOne](https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/)
+- [SOCRadar](https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/)
+
+
+- [Piramid of Pain](#piramid-of-pain)
+  - [Table of Contents](#table-of-contents)
+  - [Hash Values](#hash-values)
+  - [Importance of IP Addresses and Their Role in the Pyramid of Pain](#importance-of-ip-addresses-and-their-role-in-the-pyramid-of-pain)
+    - [Defense Perspective](#defense-perspective)
+    - [Fast Flux Technique](#fast-flux-technique)
+  - [Understanding Domain Names and Their Role in Cybersecurity](#understanding-domain-names-and-their-role-in-cybersecurity)
+    - [Domain Names - Simplified](#domain-names---simplified)
+    - [Punycode Attacks](#punycode-attacks)
+    - [Analyzing Connections in Any.run](#analyzing-connections-in-anyrun)
+## Hash Values
 
 **Hash Value** - this is a fixed length numeric value that identifies a piece of data. This is possible through hashing algorigthms. 
 
@@ -24,19 +40,19 @@ Technically, two pieces of data could hash to the same hash value, but this is n
 
 Because altering a file by even a single bit could produce an entirely different hash value, this could become very difficult to analyze as a threat hunter.  Because of the hash value produced by hashing algorithms and how they can differ greatly by altering a single bit, its purpose is mainly used to ensure the integrity of files. 
 
-# Importance of IP Addresses and Their Role in the Pyramid of Pain
+## Importance of IP Addresses and Their Role in the Pyramid of Pain
 
 - **IP Address:** Identifies devices on a network like desktops, servers, and cameras.
 - **Sending and Receiving Data:** IP addresses are essential for transmitting data over a network.
 - **Pyramid of Pain:** IP addresses are a green-level indicator, indicating their significance.
 
-## Defense Perspective:
+### Defense Perspective
 
 - **Blocking IP Addresses:** A common defense tactic to prevent incoming requests from certain IPs.
 - **Limitations:** This tactic isn't foolproof; experienced adversaries can easily switch to new IPs.
 - **Challenge - Fast Flux:** Adversaries use techniques like Fast Flux to evade IP blocking.
 
-## Fast Flux Technique:
+### Fast Flux Technique
 
 - **DNS Technique:** Used by botnets to hide malicious activities behind compromised hosts.
 - **Purpose:** Concealing communication between malware and its command server.
@@ -45,11 +61,11 @@ Because altering a file by even a single bit could produce an entirely different
 - **Example:** Palo Alto's fictional scenario explains Fast Flux's resilience.
 
 
-# Understanding Domain Names and Their Role in Cybersecurity
+## Understanding Domain Names and Their Role in Cybersecurity
 
 In this section, we explore the significance of domain names in the context of cybersecurity. Let's break down the key points:
 
-## Domain Names - Simplified
+### Domain Names - Simplified
 
 - **Mapping to IP Addresses:** Domain names link to IP addresses, allowing users to access websites using text-based URLs. 
 - **Structure:** Domain names can consist of a domain and top-level domain (e.g., evilcorp.com) or sub-domain, domain, and top-level domain (e.g., tryhackme.evilcorp.com).
@@ -57,7 +73,7 @@ In this section, we explore the significance of domain names in the context of c
 
 Although it can be harder for attackers to deal with Domain Names seeing that they would have to purchase, register, and modify a domain and its DNS records, DNS providers still provide APIs, which make it easier for attackers to change domains. 
 
-## Punycode Attacks
+### Punycode Attacks
 
 - **Punycode** 
   - A method to encode non-ASCII characters into ASCII-compatible format.  
@@ -81,7 +97,7 @@ Although it can be harder for attackers to deal with Domain Names seeing that th
     - tinyurl.com
     - x.co
 
-## Analyzing Connections in Any.run
+### Analyzing Connections in Any.run
 
 - **Any.run Sandbox:** Analyzing samples by executing them in a controlled environment.
 - **Monitoring Connections:** Any.run provides insight into HTTP requests, DNS requests, and communication processes.
