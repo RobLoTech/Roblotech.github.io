@@ -15,6 +15,8 @@ Your main tasks as a Junior Security Analyst (or Tier 1 SOC Analyst) will be:
 
 4. **Escalation of Security Incidents:** If you come across alerts or incidents that seem more complex or severe, you'll be responsible for escalating them. This involves notifying higher-level experts like Tier 2 analysts or Team Leads who can take appropriate actions to address the situation.
 
+[Cyber Defense Frameworks](##)
+
 ## Conclusion
 
 This knowledge will serve as the foundation for understanding the concepts and tasks covered in the training.
