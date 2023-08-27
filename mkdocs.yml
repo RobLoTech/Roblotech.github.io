@@ -8,15 +8,19 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
     - navigation.path
-    # - navigation.indexes
-    - toc.follow
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  # nav:
+  #   - Section:
+  #     - 
+  #     - SOC 1/index.md
   language: en
   palette:
     - scheme: default
