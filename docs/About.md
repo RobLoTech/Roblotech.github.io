@@ -1,19 +1,25 @@
-# About me
+# About Me
 
-Welcome to github repository! As a former USC Trojan and professional baseball player, I’ve made an exciting transition into the world of IT, and I’m thrilled to share my journey with you.
+Welcome to my GitHub repository! I'm excited to have you here. I'd like to take a moment to introduce myself and share a bit about my journey.
 
-Baseball has been a significant part of my life, bringing friendships, life lessons, and unforgettable moments. But after my successful career, I began to contemplate my next steps.
+First off, I proudly wore the University of Southern California Trojans jersey and spent over a decade as a professional baseball player. Those years were filled with incredible moments, lasting friendships, and lessons that shaped who I am today. But life is all about chapters, and after a successful baseball career, I found myself pondering what would come next.  I did have a degree from USC in Policy, Planning, and Development, but I wasn't conviced it was what I wanted to do after baseball.
 
-Drafted by the Los Angeles Angels of Anaheim in 2008, I balanced financial stability during the off-season. However, finding work in those limited months wasn’t easy. Nevertheless, I persevered, knowing that worthwhile achievements come with challenges.
+![Roberto Lopez USC Trojan Baseball Headshot](<My Learning/assets/robertolopezUSCbaseball.png>)
 
-Time flew, and after 13 amazing years in baseball, something truly magical happened. My long-time childhood friend, and let’s be honest, my childhood crush, came back into my life. We reignited our incredible bond, and with her unwavering support and motivation, I decided to follow my passion for technology.
+Back in 2008, the Los Angeles Angels of Anaheim drafted me from USC. The first years as a professional baseball player, the baseball field was my main stage, but the off-season was a different story. It wasn't easy to find work during those months, but I embraced the challenge. I learned that real accomplishments don't come without hurdles, and I was determined to overcome them.
 
-Picture this: while teammates celebrated at parties, I remained disciplined, prioritizing my studies. Late nights on the team bus became opportunities to dive deep into education, sacrificing immediate gratification for long-term success. The journey was demanding, pushing me to the limits both physically and mentally. But let me assure you, every ounce of effort was worth it.
+Fast forward through 13 amazing years in baseball, and a truly magical thing occurred. My childhood friend, who also happened to be my ***childhood crush***, reentered my life. With her unwavering support and motivation, I made a life-altering decision to pursue my passion for technology.  For the last three years of my professional baseball career, I enrolled back to school and, through online classes, attained my second Bachelor's degree.
 
-Now armed with a second Bachelor’s degree in Information Technology, I’ve seamlessly transitioned from baseball to the world of IT. Certifications like CompTIA Network+, Security+, and the Cisco Certified Network Associate (CCNA) have furthered my expertise.
+![Alt text](<My Learning/assets/brave_sbLPUDNnld.png>)
 
-Although I’m relatively new to the IT scene, the energy and discipline I cultivated during my baseball years have propelled my thirst for knowledge. Beyond personal growth, my passion has been and always will lie in making a positive impact on others.
+Imagine this: while my teammates celebrated after games and partied, I remained committed to my studies. Those late nights on the team bus became opportunities for deep dives into my education. I traded instant gratification for the promise of long-term success. The journey demanded everything I had, pushing me physically and mentally. But I assure you, every ounce of effort was worth it.
 
-Through this blog, I’ll share valuable insights, personal anecdotes, and practical tips to help you navigate the world of technology and career growth. Join me as we explore this exciting realm together.
+![Roberto Lopez Toros de Tijuana](<My Learning/assets/brave_VlAZg2jQNv.png>)
 
-Thanks for visiting, and I hope you find inspiration and enlightenment in my content!
+Now armed with a second Bachelor’s degree in Information Technology, I've transitioned seamlessly from baseball to the world of IT. I've earned certifications like CompTIA Network+, Security+, and the Cisco Certified Network Associate (CCNA), which have further honed my expertise.
+
+While I might be relatively new to the IT scene, the energy and discipline I cultivated during my baseball years have fueled my thirst for knowledge. More than personal growth, my passion lies in making a positive impact on others.
+
+Through this blog, I'm excited to share valuable insights, personal stories, and practical tips to help you navigate the world of technology and achieve your career goals. Join me as we venture into this exciting realm together.
+
+Thank you for dropping by, and I hope my content inspires and enlightens you. Here's to growth and new beginnings!

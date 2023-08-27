@@ -1,10 +1,10 @@
-# Home
+**HOME**
 
 Welcome to RobloTech, a hub for all things IT. This site is a blend of a professional portfolio and an informational blog, featuring details about my projects, learning journey, certification guides, study resources, and more.
 
 ## Description
 
-This repository hosts the source code for roblotech.github.io, created using [mkdocs](https://squidfunk.github.io/mkdocs-material/) and hosted on GitHub Pages. The site serves as a platform where I share my personal learning, experiences, knowledge, and perspectives about various aspects of the IT world, including but not limited to:
+This repository hosts the source code for roblotech.github.io, created using [Mkdocs](https://squidfunk.github.io/mkdocs-material/) and hosted on GitHub Pages. The site serves as a platform where I share my personal learning, experiences, knowledge, and perspectives about various aspects of the IT world, including but not limited to:
 
 - **Blog**: In-depth articles on a wide range of tech topics, as well as posts detailing my personal experiences in the IT industry.
 - **My Learning**: Showcasing my projects, with links to Github repositories, and documenation.
