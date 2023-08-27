@@ -1,21 +1,15 @@
 # Piramid of Pain
 
-- Fairly new concept being applied by companies like Cisco, SentinelOne, and SOCRadar.
-- Imnproves the effectiveness of Cyber Threat Intelligence (CTI), threat hunding, and IR
+This is a fairly new concept being applied by reputable companies with the goal of improving the effectiveness of Cyber Threat Intelligence (CTI), threat hunding, and Incident Response (IR)
 
-Check out these resources for a general overview of its meaning, and how reputable companies are implementing it; [Cisco Security](https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/), [SentinelOne](https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/),  [SOCRadar](https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/)
+Check out these resources for a general overview of its meaning, and how reputable companies are implementing it:
 
-**Table of Contents**
+[Cisco Security](https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/)
 
-- [Piramid of Pain](#piramid-of-pain)
-  - [Hash Values](#hash-values)
-  - [Importance of IP Addresses and Their Role in the Pyramid of Pain](#importance-of-ip-addresses-and-their-role-in-the-pyramid-of-pain)
-    - [Defense Perspective](#defense-perspective)
-    - [Fast Flux Technique](#fast-flux-technique)
-  - [Understanding Domain Names and Their Role in Cybersecurity](#understanding-domain-names-and-their-role-in-cybersecurity)
-    - [Domain Names - Simplified](#domain-names---simplified)
-    - [Punycode Attacks](#punycode-attacks)
-    - [Analyzing Connections in Any.run](#analyzing-connections-in-anyrun)
+[SentinelOne](https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/)
+
+[SOCRadar](https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/)
+
 ## Hash Values
 
 **Hash Value** - this is a fixed length numeric value that identifies a piece of data. This is possible through hashing algorigthms. 
