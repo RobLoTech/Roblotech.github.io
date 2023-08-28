@@ -17,10 +17,10 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  # nav:
-  #   - Section:
-  #     - 
-  #     - SOC 1/index.md
+  nav:
+    - Section:
+      - 
+      - SOC 1/index.md
   language: en
   palette:
     - scheme: default
