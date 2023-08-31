@@ -1,7 +1,5 @@
 # SOC Level 1
 
-## Summary
-
 As a Junior Security Analyst, and specifically as a Triage Specialist, you will focus on monitoring and managing potential security issues. This involves examining event logs and alerts to identify potential threats.
 
 ## Tasks
@@ -24,8 +22,6 @@ These are the sections covered:
 5. [Network Security and Traffic Analysis](Network%20Security%20and%20Traffic%20Analysis/INdex.md#network-security-and-traffic-analysis)
 6. [Phishing](Phishing/index.md#phishing)
 7. [Security Information and Event Management](Security%20Information%20and%20Event%20Management/index.md#security-information-and-event-management-siem)
-
-## Conclusion
 
 This knowledge will serve as the foundation for understanding the concepts and tasks covered in the training.
 
