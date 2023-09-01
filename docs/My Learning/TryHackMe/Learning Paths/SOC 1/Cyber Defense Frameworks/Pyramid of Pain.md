@@ -189,13 +189,13 @@ Remember, these insights help defenders better understand the tactics attackers 
   - Unique threat indicators.
 
 **Suspicious process execution from Word:**
-![Alt text](<../../../../assets/suspicious process.png>)
+![Suspicious process](<../../../../../assets/suspicious process.png>)
 
 **Suspicious events followed by opening a malicious application:**
-![Suspicios Event](<../../../../assets/suspicious event.png>)
+![Suspicious event](<../../../../../assets/suspicious event.png>)
 
 **Files modified/dropped by malicioius actor:**
-![Modified Files](../../../../assets/modified_files.png)
+![Modified Files](../../../../../assets/modified_files.png)
 
 ## Network Artifacts (Annoying)**
 
@@ -219,7 +219,7 @@ Remember, these insights help defenders better understand the tactics attackers 
     ```ps
     tshark --Y http.request -T fields -e http.host -e http.user_agent -r analysis_file.pcap
     ```
-    ![Tshark output](<../../../../assets/tshark output.png>)
+    ![Alt text](<../../../../../assets/tshark output.png>)
     The given command is used to analyze network traffic. Here's a breakdown:
 
       - **`tshark`**: This is the command-line version of Wireshark, a popular network protocol analyzer.

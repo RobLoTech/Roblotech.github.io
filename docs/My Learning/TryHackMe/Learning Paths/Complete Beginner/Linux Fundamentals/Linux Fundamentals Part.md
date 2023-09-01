@@ -20,7 +20,7 @@ Flags/switches
 
 Example:
 
-![Alt text](<../../../../assets/Pasted image 20230729191413.png>)
+![Alt text](<../../../../../assets/Pasted image 20230729191413.png>)
 
 **Man Page**
 

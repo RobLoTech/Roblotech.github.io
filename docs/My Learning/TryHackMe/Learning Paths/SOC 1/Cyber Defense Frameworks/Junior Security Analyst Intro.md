@@ -14,7 +14,7 @@ This role involves overseeing and managing event logs and alerts to ensure the s
 
 - **Escalate Security Incidents**: If a situation goes beyond the initial assessment, you'll escalate it to more experienced colleagues for further investigation.
 
-![Alt text](<../../../../assets/Pasted image 20230816200248.png>)
+![Alt text](<../../../../../assets/Pasted image 20230816200248.png>)
 ## Qualifications:
 
 - **0-2 Years in Security Operations:** This role is often an entry-level position, suitable for those just starting in the field.
@@ -29,7 +29,7 @@ This role involves overseeing and managing event logs and alerts to ensure the s
 - **Security Operation Center Three-Tier Model:** Understanding the three-tier model (junior, mid-level, and senior analysts) helps you know where you fit and where you can progress.
 
 
-![Alt text](<../../../../assets/Pasted image 20230816195828.png>)
+![Alt text](<../../../../../assets/Pasted image 20230816195828.png>)
 
 
 ## Core Functions of SOC:
