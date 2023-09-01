@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/My Learning/TryHackMe/Learning Paths/Complete Beginner/Linux Fundamentals/Linux Fundamentals Part.md",
+                "file": "docs/Certifications/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/My Learning/TryHackMe/Learning Paths/Complete Beginner/Linux Fundamentals/Linux Fundamentals Part.md",
+                "file": "docs/Certifications/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/My Learning/TryHackMe/Learning Paths/Complete Beginner/Linux Fundamentals/Linux Fundamentals Part.md",
+                "file": "docs/Certifications/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/My Learning/TryHackMe/Learning Paths/Complete Beginner/Linux Fundamentals/Linux Fundamentals Part.md"
+                "file": "docs/Certifications/index.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "50225c6c477f6c62",
   "lastOpenFiles": [
-    "assets/Pasted.md",
+    "docs/Certifications/CompTIA Security+/index.md",
+    "docs/blog/index.md",
+    "docs/assets/Pasted image 20230831214326.png",
+    "docs/My Learning/Linux/index.md",
+    "docs/My Learning/index.md",
+    "docs/Certifications/index.md",
+    "docs/Certifications/CompTIA Network+/index.md",
     "docs/My Learning/TryHackMe/Learning Paths/Complete Beginner/Linux Fundamentals/Linux Fundamentals Part.md",
+    "assets/Pasted.md",
     "assets",
     "docs/assets/Pasted image 20230729191413.png",
     "docs/About.md",
-    "docs/My Learning/index.md",
     "docs/My Learning/TryHackMe/index.md",
     "docs/My Learning/Linux/Useful Commands/Cheat Sheet.md",
-    "docs/My Learning/Linux/index.md",
     "docs/My Learning/Linux/Useful Commands",
     "docs/index.md",
     "docs/assets/robertolopezUSCbaseball.png",
-    "docs/Certifications/CompTIA Security+/Security+.md",
-    "docs/blog/index.md",
     "docs/My Learning/Coursera/Analyze Network Traffic with TCPDump.md"
   ]
 }
