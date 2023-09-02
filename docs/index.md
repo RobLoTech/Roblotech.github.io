@@ -19,7 +19,7 @@ Ready to take a closer look? You can either clone this repository to peek behind
 1. **Clone the Repository**:
    - Open your terminal.
    - Navigate to your desired directory using the `cd` command.
-   - Enter `git clone https://github.com/roblotech/your-repo-name.git`.
+   - Enter `git clone https://github.com/roblotech/roblotech.github.io`.
    - Voila! You've got a local copy.
 
 2. **Explore the Code**:
@@ -35,6 +35,6 @@ Before you dive in headfirst, please keep in mind that this repository and its c
 
 ## Stay Connected
 
-Questions, comments, or just want to chat? Reach out anytime at support@roblo-tech.com. Your feedback is welcome as this is only the beginning for me and any feedback helps me make RobloTech an even better place for everyone. 
+Questions, comments, or just want to chat? Reach out anytime at ***support@roblo-tech.com***. Your feedback is welcome as this is only the beginning for me and any feedback helps me make RobloTech an even better place for everyone. 
 
 Thank you!

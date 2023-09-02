@@ -1,28 +1,40 @@
-# RobloTech - Tech Blog and Portfolio
+**Welcome to RobloTech!**
 
-Welcome to RobloTech, a hub for all things IT. This site is a blend of a professional portfolio, personal projects and documentation, and blog link, featuring details about my projects, learning journey, certification guides, study resources, and more.
+Welcome to my github repo! This is a collection of my professional portfolio and blog in which I try to create a hub filled with insights, experiences, and resources for tech enthusiasts of all levels. Join me as I explore projects, share learning journeys, guide you through certifications, and offer a variety of study resources.
 
-## Description
+## What's Inside
 
-This repository hosts the source code for roblotech.github.io, created using Jekyll and hosted on GitHub Pages. The site serves as a platform where I share my experiences, knowledge, and perspectives about various aspects of the IT world, including but not limited to:
+This repository is the heartbeat of roblotech.github.io, my online space powered by [Mkdocs](https://squidfunk.github.io/mkdocs-material/) and hosted with GitHub Pages. My goal is to share not only the technical but also the human side IT. Some of the topics covered include:
 
-- **Blog**: In-depth articles on a wide range of tech topics, as well as posts detailing my personal experiences in the IT industry.
-- **My Learning**: Showcasing my projects, with links to Github repositories, and documenation.
-- **Certifications**: A detailed list of my certifications along with the strategies I employed to achieve them.
-- **Resources**: A compilation of useful resources, like websites, books, and courses, that have aided my learning journey.
+- **Tech Blog**: Articles on a variety of tech subjects. This redirects you to my own personal blog site where I uncover insights, strategies, and anecdotes that offer a unique perspective on my personal journey and transition from being a professional athlete to an IT professional.
+- **My Learning Journey**: Collection of projects, learning paths, and useful resources.
+- **Certification**: Achived certifications and what it took to attain them.
+- **Resources**: Collection of websites, books, courses that have illuminated my path in the tech landscape.
 
-## Page Structure
+## Navigating the Repository
+Ready to take a closer look? You can either clone this repository to peek behind the curtain and explore the code that powers this platform. Or, if you're eager to dive right into the content, simply visit us at https://roblotech.github.io. Not sure how to clone a repository? Don't worry, here's a step-by-step guide.
 
-- **Home**: Brief introduction and latest highlights.
-- **About**: Details about me and my professional journey.
-- **Blog**: A redirect link to my collection of blog articles on various tech topics.
-- **My Learning**: A showcase of my personal projects.
-- **Certifications**: Information about my certifications and study guides.
-- **Resources**: A collection of recommended study resources.
+## Get Started
 
-# Using this Repository
-You can clone this repository to view the source code, or visit the website at https://roblotech.github.io.
+1. **Clone the Repository**:
+   - Open your terminal.
+   - Navigate to your desired directory using the `cd` command.
+   - Enter `git clone https://github.com/roblotech/roblotech.github.io`.
+   - Voila! You've got a local copy.
 
+2. **Explore the Code**:
+   - Peek into the repository's files to understand how the magic happens.
+   - Tinker, experiment, and learn from the code that builds this platform.
 
-# Contact
-For any inquiries, feel free to reach out via support@roblo-tech.com.
+3. **Experience the Platform**:
+   - If you're not the hands-on type, no worries. Explore our platform directly at https://roblotech.github.io and soak in the knowledge.
+
+## A Word of Wisdom
+
+Before you dive in headfirst, please keep in mind that this repository and its contents are designed for educational purposes. I'm all about learning, sharing, and growing together. However, I can't take responsibility for how you choose to use the information or resources provided.
+
+## Stay Connected
+
+Questions, comments, or just want to chat? Reach out anytime at ***support@roblo-tech.com***. Your feedback is welcome as this is only the beginning for me and any feedback helps me make RobloTech an even better place for everyone. 
+
+Thank you!
