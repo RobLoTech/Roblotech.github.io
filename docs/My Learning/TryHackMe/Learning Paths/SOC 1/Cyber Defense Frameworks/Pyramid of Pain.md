@@ -197,7 +197,7 @@ Remember, these insights help defenders better understand the tactics attackers 
 **Files modified/dropped by malicioius actor:**
 ![Modified Files](../../../../../assets/modified_files.png)
 
-## Network Artifacts (Annoying)**
+## Network Artifacts (Annoying)
 
 *As we progress up the pyramid, we're essentially ramping up the difficulty for attackers, enhancing our detection odds.*
 
@@ -236,3 +236,26 @@ In simple terms, this command reads the specified packet capture file (`analysis
   
 - **Defensive Strategy:** Identifying custom User-Agent strings used by attackers can lead to effective blocks, further hampering their intrusion efforts.
 
+## Tools (Challenging)
+
+This stage improves our ability to detect suspicious activities. This discourages attackers from trying to breach your network. They might give up or attempt to develop a new tool, which requires time and resources. This is a turning point for attackers, making it harder for them to succeed.
+
+**Key Takeaways:**
+
+1. **Enhanced Detection:** We've boosted our ability to spot potential threats and malicious actions.
+2. **Attacker's Dilemma:** Attackers may abandon their attempts or invest in creating a new tool.
+3. **Investment Required:** Creating a new tool demands effort, money, and technical skills.
+4. **Defense Tools:** We now rely on antivirus signatures, detection rules, and YARA rules.
+5. **Utility of Tools:** Attackers employ various tools like malicious macro documents, backdoors, payloads, and more.
+6. **Command and Control:** Attackers establish control infrastructure to manage their malicious activities.
+
+**Resources for Defense:**
+
+- **[MalwareBazaar](https://bazaar.abuse.ch/) & [Malshare](https://malshare.com/):** Access to samples and YARA results for threat hunting.
+- **[SOC Prime Threat Detection Marketplace](https://tdm.socprime.com/login):** Shared detection rules against different threats.
+- **Fuzzy Hashing:** A powerful technique to match similar files with minor differences.
+      - **[SSDeep](https://ssdeep-project.github.io/ssdeep/index.html):** A tool for fuzzy hashing, helping in similarity analysis.
+
+By utilizing these resources and techniques, we are better equipped to defend against attackers and enhance the security of our network.
+
+Remember, while attackers can be resourceful, we've fortified our defenses to counter their efforts effectively.
