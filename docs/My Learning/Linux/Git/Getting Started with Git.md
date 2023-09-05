@@ -3,7 +3,7 @@
 
 ## Creating Your Identity
 
-In order to add files, commit changes, and push files to your repository, you first need to identify as a user executing these changes. 
+To add files, commit changes, and push files to your repository, you first need to identify as a user executing these changes. 
 To do so, simply run:
 ```
   git config --global user.email "you@example.com"
@@ -27,7 +27,7 @@ Navigate to the desired directory where you want the repo to be cloned and type:
 ```
 git clone https://github.com/myproject
 ```
-Once you've cloned the repo, any changes you make have to be pushed to the github repo. To do so, we need to stage and push some commits. We do that with `git add`, `git commit` and `git push`.  
+Once you've cloned the repo, any changes you make have to be pushed to the Github repo. To do so, we need to stage and push some commits. We do that with `git add`, `git commit`, and `git push`.  
 ```
 git add .                         # The '.' adds all files that've been   
                                   # created or modified.

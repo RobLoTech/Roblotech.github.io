@@ -226,7 +226,7 @@ Remember, these insights help defenders better understand the tactics attackers 
       - **`--Y http.request`**: This filters the captured traffic to only show HTTP requests. The `--Y` flag indicates a display filter is being used.
       - **`-T fields`**: This option specifies that the output should be formatted as fields, which makes it easier to see specific details.
       - **`-e http.host`** and **`-e http.user_agent`**: These are field options that indicate which specific fields you want to display in the output. In this case, you're interested in:
-        - `http.host`: The host name or IP address of the server.
+        - `http.host`: The hostname or IP address of the server.
         - `http.user_agent`: The User-Agent string, which provides information about the client (e.g., browser or tool) making the request.
       - **`-r analysis_file.pcap`**: This option specifies that `tshark` should read from the file `analysis_file.pcap`, which is a packet capture file.
 
@@ -317,6 +317,6 @@ Remember, while attackers can be resourceful, we've fortified our defenses to co
 
 This is the final stage of the Pyramid of Pain!
 
-TTPs stands for Tactics, Techniques & Procedures.  If we're able to detect and respond to TTPs, we've successfully defended against a potential attack and may cause the attacker to retreat altogether or do more research. 
+The acronym TTPs stands for Tactics, Techniques & Procedures.  If we're able to detect and respond to TTPs, we've successfully defended against a potential attack and may cause the attacker to retreat altogether or do more research. 
 
 TTPs include the [MITRE ATT&CK Matrix](https://attack.mitre.org/), which is essentially a knowledge base of the tactics and techniques used by real-world adversaries.  Understanding the MITRE ATT&CK framework helps cybersecurity professionals understand the steps taken by adversaries which in turn, help prevent future attacks. 

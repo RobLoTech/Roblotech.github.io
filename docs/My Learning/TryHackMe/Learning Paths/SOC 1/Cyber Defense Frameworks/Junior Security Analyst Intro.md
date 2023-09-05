@@ -50,7 +50,7 @@ This role involves overseeing and managing event logs and alerts to ensure the s
 
 - **Update Signatures and Patch Vulnerabilities:** Keeping firewall signatures current and patching vulnerabilities prevents attackers from exploiting known weaknesses.
 
-- **Application Whitelisting/Blacklisting:** Managing lists of approved (whitelisted) and prohibited (blacklisted) applications, email addresses, and IPs helps control potential threats.
+- **Application Whitelisting/Blacklisting:** Managing lists of approved (whitelisted) and prohibited (blacklisted) applications, email addresses, and IPs help control potential threats.
 
 ## Monitoring and Investigation:
 
