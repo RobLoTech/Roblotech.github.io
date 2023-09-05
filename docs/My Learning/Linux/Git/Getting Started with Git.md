@@ -1,4 +1,4 @@
-T## Getting Started with Git
+# Getting Started with Git
 
 
 ## Creating Your Identity
