@@ -27,34 +27,13 @@ Navigate to the desired directory where you want the repo to be cloned and type:
 ```
 git clone https://github.com/myproject
 ```
-First thing you want to do is add files to your repository. 
+Once you've cloned the repo, any changes you make have to be pushed to the github repo. To do so, we need to stage and push some commits. We do that with `git add`, `git commit` and `git push`.  
 ```
-git add .
+git add .                         # The '.' adds all files that've been   
+                                  # created or modified.
 
+git commit -m "<Commit Message>"  # This commits the changes from the
+                                  # previous step. 
 
+git push                          # Pushes commits to github
 ```
-
-
-┌──(btron㉿kali)-[~/Documents/roblotech.github.io]
-└─$ git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        new file:   docs/My Learning/Linux/Git/Getting Started with Git.md
-        new file:   docs/My Learning/Linux/Git/index.md
-        modified:   docs/My Learning/Linux/Useful Commands/Cheat Sheet.md
-        new file:   docs/assets/image.png
-                                                                                                                                                                             
-┌──(btron㉿kali)-[~/Documents/roblotech.github.io]
-└─$ git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        new file:   docs/My Learning/Linux/Git/Getting Started with Git.md
-        new file:   docs/My Learning/Linux/Git/index.md
-        modified:   docs/My Learning/Linux/Useful Commands/Cheat Sheet.md
-        new file:   docs/assets/image.png
